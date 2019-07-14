@@ -1,0 +1,2 @@
+isDatabase: false #If you are restoring a sql file then put this value to true
+isPremium: true #If you do not want the new profiles to have the premium pass, put this value to false
