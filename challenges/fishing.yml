@@ -1,0 +1,16 @@
+type: fishing
+variable: none # The variable is not used here.
+name: 'Fisher' # The name given to the mission.
+requiredProgress: 5 # The amount of times the player must fish successfully.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: fishing_rod:0
+  name: '&bCatch 5 Things'
+  lore:
+    - ''
+    - '&7Catch 5 things to'
+    - '&7complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

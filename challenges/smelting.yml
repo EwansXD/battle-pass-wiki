@@ -1,0 +1,16 @@
+type: smelting
+variable: gold_ingot # The item the player must get from smelting.
+name: 'Smelter' # The name given to the mission.
+requiredProgress: 5 # The amount of times the player must smelt the item.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: gold_ore:0
+  name: '&bSmelt 5 Gold Ores'
+  lore:
+    - ''
+    - '&7Smelt 5 gold ores to'
+    - '&7complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

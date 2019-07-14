@@ -1,0 +1,16 @@
+type: damage
+variable: none # The variable is not used here.
+name: 'Hitman' # The name given to the mission.
+requiredProgress: 200 # The amount of damage the player must deal.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: redstone_dust:0
+  name: '&bDeal 200 Damage'
+  lore:
+    - ''
+    - '&7Deal 200 damage to players'
+    - '&7to complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

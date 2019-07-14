@@ -1,0 +1,16 @@
+type: break #Mission type
+variable: stone # The block the player must break.
+name: 'Miner' # The name given to the mission.
+requiredProgress: 10 # The amount of blocks the player must break the block.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: stone_pickaxe:0
+  name: '&bBreak 10 Stone'
+  lore:
+    - ''
+    - '&7Break 10 stone blocks'
+    - '&7to complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

@@ -1,0 +1,16 @@
+type: chat
+variable: 'Hello World' # The message the player must send.
+name: 'Welcoming' # The name given to the mission.
+requiredProgress: 1 # The amount of times the player must send the message.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: book:0
+  name: '&bSay Hello To The World'
+  lore:
+    - ''
+    - '&7Say ''Hello World'' to'
+    - '&7complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'
