@@ -1,14 +1,14 @@
-type: playerkilling
+type: propractice_kill
 variable: none # The variable is not used here.
-name: 'Murderer' # The name given to the mission.
-requiredProgress: 1 # The amount of players they must kill.
+name: 'Pro OOFer' # The name given to the mission.
+requiredProgress: 5 # The amount of players they must kill in ProPractice games..
 expWorth: 100 # The amount of experience given upon completion.
 item: # How the item will look in the Missions menu.
-  item: redstone:0
-  name: '&bKill a Player'
+  item: golden_sword:0
+  name: '&bKill 5 Players'
   lore:
     - ''
-    - '&7Kill a player to'
+    - '&7Kill 5 players in a match to'
     - '&7complete this mission.'
     - ''
     - '&b Information'
