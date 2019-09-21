@@ -1,0 +1,52 @@
+title: Missions
+rows: 4
+sound: anvil_use
+items:
+  nextPage:
+    slot: 6
+    row: 4
+    item: arrow:0
+    name: '&bNext Page &7(Click)'
+    lore:
+    - ''
+    - '&7&o(( Click to go to the next page ))'
+  previousPage:
+    slot: 4
+    row: 4
+    item: arrow:0
+    name: '&bPrevious Page &7(Click)'
+    lore:
+    - ''
+    - '&7&o(( Click to go to the previous page ))'
+  border:
+    item: air:0
+    name: ''
+    lore:
+    - ''
+  filler:
+    item: air:0
+    name: ''
+    lore:
+    - ''
+  dailyMissions: # You must add this section if you wish to use daily missions.
+    slot: 9
+    row: 2
+    item: clock:0
+    name: '&bDaily Missions &7(%time_to_reset%)'
+    lore:
+    - ''
+    - 7&o(( Very interesting information ))
+itemRows:
+  weeks:
+    row: 2
+    released:
+      item: writable_book:0
+      name: '&bWeek %week% &7(Click) &aReleased'
+      lore:
+      - ''
+      - '&f&l * &7Completed Missions &f%completed_missions%&8/&f%missions_amount%'
+    unreleased:
+      item: book:0
+      name: '&bWeek %week% &7(Click) &cUnreleased'
+      lore:
+      - ''
