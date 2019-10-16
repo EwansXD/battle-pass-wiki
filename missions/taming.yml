@@ -1,5 +1,5 @@
 type: taming
-variable: cow # The mob the player must tame.
+variable: sheep # The mob the player must tame.
 name: 'Tamer' # The name given to the mission.
 requiredProgress: 5 # The amount of times the player must tame the mob.
 expWorth: 100 # The amount of experience given upon completion.
