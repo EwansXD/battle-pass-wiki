@@ -4,7 +4,7 @@ name: 'Tamer' # The name given to the mission.
 requiredProgress: 5 # The amount of times the player must tame the mob.
 expWorth: 100 # The amount of experience given upon completion.
 item: # How the item will look in the Missions menu.
-  item: wheat:0
+  item: monster_egg:91
   name: '&bTame 5 Sheep'
   lore:
     - ''
