@@ -1,0 +1,15 @@
+type: riding
+variable: horse # The animal that the player must ride
+name: 'Cowboy' # The name given to the mission.
+requiredProgress: 100 # The amount of blocks the player must ride the animal.
+expWorth: 100 # The amount of experience given upon completion.
+item: # How the item will look in the Missions menu.
+  item: saddle:0
+  name: '&bRise a Horse 100 Meters'
+  lore:
+    - '&7Ride a horse 100 meters'
+    - '&7to complete this mission'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'
