@@ -36,7 +36,8 @@ missions:
   commandMission: '&8[&f%mission_name%&8] &7You progressed this mission &8(&b%progress%&f/&b%required_progress%&8)'
   propractice_killMission: '&8[&f%mission_name%&8] &7You killed a player &8(&b%progress%&f/&b%required_progress%&8)'
   propractice_playMission: '&8[&f%mission_name%&8] &7You played a game &8(&b%progress%&f/&b%required_progress%&8)'
-  worldguardMission: '&8[&f%mission_name%&8] &7You entered the region %region% &8(&b%progress%&f/&b%required_progress%&8)'
   cratesplus_openMission: '&8[&f%mission_name%&8] &7You opened the crate %crate% &8(&b%progress%&f/&b%required_progress%&8)'
   playercommandMission: '&8[&f%mission_name%&8] &7You executed the command %command% &8(&b%progress%&f/&b%required_progress%&8)'
   askyblock_createMission: '&8[&f%mission_name%&8] &7You created an island  &8(&b%progress%&f/&b%required_progress%&8)'
+  ridingMission: '&8[&f%mission_name%&8] &7You rode a(n) %entity% a meter  &8(&b%progress%&f/&b%required_progress%&8)'
+  
