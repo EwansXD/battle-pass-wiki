@@ -1,0 +1,172 @@
+globalCommands:
+  - 'msg %player% &7You are now tier &b%tier%'
+freeRewards:
+  '2':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+  '4':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+  '6':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+  '8':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+  '10':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+  '12':
+    lorePlaceholder:
+      - '&8+ &b30x &7Iron Ingots'
+    commands:
+      - give %player% iron_ingot 30
+premiumRewards:
+  '1':
+    lorePlaceholder:
+      - '&8+ &7Purchase Message'
+    commands:
+      - msg %player% &aThank you for purchasing the battlepass!
+  '2':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '3':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '4':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '5':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '6':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '7':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '8':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '9':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '10':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '11':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '12':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '13':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '14':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '15':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '16':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '17':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '18':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '19':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
+  '20':
+    lorePlaceholder:
+      - '&8+ &b1x &7Diamond'
+      - '&8+ &b10x &7Gold Ingots'
+    commands:
+      - give %player% diamond 1
+      - give %player% gold_ingot 10
