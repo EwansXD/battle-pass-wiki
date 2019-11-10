@@ -1,5 +1,5 @@
 type: fishing
-variable: none # The variable is not used here.
+variable: book:0 # The item that must be fished.
 name: 'Fisher' # The name given to the mission.
 requiredProgress: 5 # The amount of times the player must fish successfully.
 expWorth: 100 # The amount of experience given upon completion.
