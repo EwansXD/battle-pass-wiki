@@ -5,11 +5,11 @@ requiredProgress: 5 # The amount of times the player must tame the mob.
 expWorth: 100 # The amount of experience given upon completion.
 item: # How the item will look in the Missions menu.
   item: monster_egg:91
-  name: '&bTame 5 Sheep'
+  name: '&bTame 5 horses'
   lore:
     - ''
-    - '&7Tame 5 sheep to'
-    - '&7complete this mission.'
+    - '&7Tame 5 horses to'
+    - '&7complete this horses.'
     - ''
     - '&b Information'
     - '&f&l* &7Exp Value &f100'
