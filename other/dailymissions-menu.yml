@@ -23,7 +23,9 @@ items:
 customItems:
   '1':
     slot: 5
-    row: 1
+    row: 5
     item: book:0
-    name: '&dNew missions in %time_to_reset%'
-    lore: []
+    name: '&bHow long until new missions?'
+    lore:
+      - ''
+      - '&f%time_to_reset%'
