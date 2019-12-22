@@ -1,0 +1,15 @@
+type: auctionhousekludge_list
+variable: none
+name: Sharing is Caring
+requiredProgress: 1
+expWorth: 100
+item:
+  item: sign:0
+  name: '&bList an item on the Auction House'
+  lore:
+    - '&7List an item on the Auction House'
+    - '&7to complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

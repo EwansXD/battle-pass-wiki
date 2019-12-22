@@ -1,0 +1,15 @@
+type: askyblock_createisland
+variable: none
+name: Getting Started
+requiredProgress: 1
+expWorth: 100
+item:
+  item: grass_block:0
+  name: '&bCreate an Island'
+  lore:
+    - '&7Create an island to'
+    - '&7complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

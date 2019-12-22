@@ -1,0 +1,29 @@
+title: Daily Missions
+rows: 5
+sound: anvil_use
+items:
+  previousPage:
+    slot: 5
+    row: 3
+    item: arrow:0
+    name: '&dPrevious Page &7(Click)'
+    lore:
+      - ''
+      - '&7&o(( Click to go to the previous page ))'
+  border:
+    item: air:0
+    name: ''
+    lore:
+      - ''
+  filler:
+    item: air:0
+    name: ''
+    lore:
+      - ''
+customItems:
+  '1':
+    slot: 5
+    row: 1
+    item: book:0
+    name: '&dNew missions in %time_to_reset%'
+    lore: []

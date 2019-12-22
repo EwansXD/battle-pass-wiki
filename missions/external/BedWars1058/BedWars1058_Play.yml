@@ -1,0 +1,15 @@
+type: bedwars1058_play
+variable: none
+name: BedWars Pro
+requiredProgress: 50
+expWorth: 200
+item:
+  item: sign:0
+  name: '&bPlay 50 games of BedWars'
+  lore:
+    - '&7Play BedWars games 50 times'
+    - '&7to complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'

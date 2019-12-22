@@ -1,0 +1,15 @@
+type: bedwars1058_upgradebuy
+variable: none
+name: For the Team
+requiredProgress: 10
+expWorth: 200
+item:
+  item: sign:0
+  name: '&bBuy 10 team upgrades'
+  lore:
+    - '&7Buy 10 BedWars team upgrades'
+    - '&7to complete this mission.'
+    - ''
+    - '&b Information'
+    - '&f&l* &7Exp Value &f100'
+    - '&f&l* %status%'
