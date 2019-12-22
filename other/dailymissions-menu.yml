@@ -3,10 +3,10 @@ rows: 5
 sound: anvil_use
 items:
   previousPage:
-    slot: 5
-    row: 3
+    slot: 4
+    row: 5
     item: arrow:0
-    name: '&dPrevious Page &7(Click)'
+    name: '&bPrevious Page &7(Click)'
     lore:
       - ''
       - '&7&o(( Click to go to the previous page ))'
