@@ -2,6 +2,14 @@ title: Daily Missions
 rows: 5
 sound: anvil_use
 items:
+  nextPage:
+    slot: 6
+    row: 5
+    item: arrow:0
+    name: '&bNext Page &7(Click)'
+    lore:
+      - ''
+      - '&7&o(( Click to go to the next page ))'
   previousPage:
     slot: 4
     row: 5
