@@ -84,3 +84,7 @@ missions:
   ultimatepets_spawnMission: '&8[&f%mission_name%&8] &7You spawned a pet  &8(&b%progress%&f/&b%required_progress%&8)'
   uskyblock_createMission: '&8[&f%mission_name%&8] &7You created an island  &8(&b%progress%&f/&b%required_progress%&8)'
   chatreaction_winMission: '&8[&f%mission_name%&8] &7You won a ChatReaction game  &8(&b%progress%&f/&b%required_progress%&8)'
+  marriagemaster_divorceMission: '&8[&f%mission_name%&8] &7You divorced your partner with the help of %priest%  &8(&b%progress%&f/&b%required_progress%&8)'
+  marriagemaster_hugMission: '&8[&f%mission_name%&8] &7You gave someone a hug  &8(&b%progress%&f/&b%required_progress%&8)'
+  marriagemaster_kissMission: '&8[&f%mission_name%&8] &7You You gave someone a kiss  &8(&b%progress%&f/&b%required_progress%&8)'
+  marriagemaster_marryMission: '&8[&f%mission_name%&8] &7You You got married with the help of %priest%  &8(&b%progress%&f/&b%required_progress%&8)'
