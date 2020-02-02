@@ -88,3 +88,5 @@ missions:
   marriagemaster_hugMission: '&8[&f%mission_name%&8] &7You gave someone a hug  &8(&b%progress%&f/&b%required_progress%&8)'
   marriagemaster_kissMission: '&8[&f%mission_name%&8] &7You You gave someone a kiss  &8(&b%progress%&f/&b%required_progress%&8)'
   marriagemaster_marryMission: '&8[&f%mission_name%&8] &7You You got married with the help of %priest%  &8(&b%progress%&f/&b%required_progress%&8)'
+  copsandcrims_gundamageMission: '&8[&f%mission_name%&8] &7You dealt %damage% damage to %victim%  &8(&b%progress%&f/&b%required_progress%&8)'
+  copsandcrims_playMission: '&8[&f%mission_name%&8] &7You played a game of CounterStrike  &8(&b%progress%&f/&b%required_progress%&8)'
