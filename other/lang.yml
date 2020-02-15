@@ -10,6 +10,10 @@ playerInfo:
   - '&8- &7Missions complete &f%missions_complete%&8/&f%missions_max%'
 maintenance: '&cThe Battle Pass is currently under maintenance. Please try again later.'
 
+tiers:
+  free: "Free"
+  premium: "Premium"
+
 missions:
   complete: '&7Great job, you completed the &b%mission_name%&7 challenge! You have
     received &b%exp%&7 exp!'
@@ -43,7 +47,7 @@ missions:
   playercommandMission: '&8[&f%mission_name%&8] &7You executed the command %command% &8(&b%progress%&f/&b%required_progress%&8)'
   ridingMission: '&8[&f%mission_name%&8] &7You rode a(n) %entity% a meter  &8(&b%progress%&f/&b%required_progress%&8)'
 
-  # Added or changed in v2.3.0
+  # Plugin Missions
 
   askyblock_createislandMission: '&8[&f%mission_name%&8] &7You created an island  &8(&b%progress%&f/&b%required_progress%&8)'
   askyblock_createwarpMission: '&8[&f%mission_name%&8] &7You created an island warp  &8(&b%progress%&f/&b%required_progress%&8)'
@@ -90,3 +94,12 @@ missions:
   marriagemaster_marryMission: '&8[&f%mission_name%&8] &7You You got married with the help of %priest%  &8(&b%progress%&f/&b%required_progress%&8)'
   copsandcrims_gundamageMission: '&8[&f%mission_name%&8] &7You dealt %damage% damage to %victim%  &8(&b%progress%&f/&b%required_progress%&8)'
   copsandcrims_playMission: '&8[&f%mission_name%&8] &7You played a game of CounterStrike  &8(&b%progress%&f/&b%required_progress%&8)'
+  chestshop_buyMission: '&8[&f%mission_name%&8] &7You bought from %seller%''s shop  &8(&b%progress%&f/&b%required_progress%&8)'
+  chestshop_sellMission: '&8[&f%mission_name%&8] &7%buyer% bought from one of your shops  &8(&b%progress%&f/&b%required_progress%&8)'
+  chestshop_createMission: '&8[&f%mission_name%&8] &7You created a shop  &8(&b%progress%&f/&b%required_progress%&8)'
+  chestshop_destroyMission: '&8[&f%mission_name%&8] &7You destroyed a shop  &8(&b%progress%&f/&b%required_progress%&8)'
+  tokenenchant_enchantMission: '&8[&f%mission_name%&8] &7You enchanted an item  &8(&b%progress%&f/&b%required_progress%&8)'
+  tokenenchant_gaintokensMission: '&8[&f%mission_name%&8] &7You gained %amount% tokens  &8(&b%progress%&f/&b%required_progress%&8)'
+  superiorskyblock_createMission: '&8[&f%mission_name%&8] &7You created an island  &8(&b%progress%&f/&b%required_progress%&8)'
+  superiorskyblock_joinMission: '&8[&f%mission_name%&8] &7You joined an island  &8(&b%progress%&f/&b%required_progress%&8)'
+  superiorskyblock_upgradeMission: '&8[&f%mission_name%&8] &7You purchased an island upgrade  &8(&b%progress%&f/&b%required_progress%&8)'
